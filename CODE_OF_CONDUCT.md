@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. #support http://discord.gg/Erg3fCV7zh.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community staff member as soon as possible. #support http://discord.gg/Erg3fCV7zh.
 
 [Reporting guidelines](https://docs.oiivae.com/en/latest/guidelines.html)
 
@@ -67,7 +67,7 @@ Additionally, community organizers are available to help community members engag
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Ovi's Moderation Team with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://docs.oiivae.com/en/latest/guidelines.html)
 
-Contact a moderator as soon as possible. If one is not available, submit a Ban Request.
+Contact a moderator as soon as possible. If one is not available, submit a Ban Appeal.
 
 ## 9. Scope
 
