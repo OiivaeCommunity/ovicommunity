@@ -1,4 +1,4 @@
-A github page for issues, ban appeals, and ban requests
+A github page for issues, punishment/ban appeals, and ban requests
 https://github.com/nerdyjohnny/ovicommunity/issues
 
 
